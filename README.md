@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sardor</h1>
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssheraliev&label=Profile%20views&color=0e75b6&style=flat" alt="ssheraliev" /> </p>
-
 <p align="left"> <a href="https://twitter.com/sshk8s" target="blank"><img src="https://img.shields.io/twitter/follow/sshk8s?logo=twitter&style=for-the-badge" alt="sshk8s" /></a> </p>
 
 - 🔭 I’m currently working on **ML - Neural Networks**
@@ -11,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Kubernetes, Service Mesh, Site Reliability Engineering and Machine Learning**
 
-- 📝 I regularly write articles on [LinkedIn Network](LinkedIn Network)
+- 📝 I regularly write articles on [https://linkedin.com/in/ssheraliev/recent-activity/all/](https://linkedin.com/in/ssheraliev/recent-activity/all/)
 
 - 💬 Ask me about **DevSecOps and SRE**
 
