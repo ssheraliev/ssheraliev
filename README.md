@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sardor</h1>
+<h1 align="center">Hey Folks 👋, Sardor is here</h1>
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/sshk8s" target="blank"><img src="https://img.shields.io/twitter/follow/sshk8s?logo=twitter&style=for-the-badge" alt="sshk8s" /></a> </p>
@@ -9,17 +9,18 @@
 
 - 👯 I’m looking to collaborate on **Kubernetes, Service Mesh, Site Reliability Engineering and Machine Learning**
 
-- 📝 I regularly write articles on [https://linkedin.com/in/ssheraliev/recent-activity/all/](https://linkedin.com/in/ssheraliev/recent-activity/all/)
+- 📝 I regularly write articles at [https://linkedin.com/in/ssheraliev/recent-activity/all/](https://linkedin.com/in/ssheraliev/recent-activity/all/)
 
 - 💬 Ask me about **DevSecOps and SRE**
 
-- 📫 How to reach me **in/ssheraliev**
+- 📫 How to reach me **Twitter, LinkedIn**
 
 - ⚡ Fun fact **: Lost in T東KY京**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sshk8s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sshk8s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ssheraliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssheraliev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
